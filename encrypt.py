@@ -1,6 +1,7 @@
+import sys
 
-lista_input = [x for x in input().split()]
-parola, nume_fisier_input, nume_fisier_output = lista_input
+# lista_input = [x for x in input().split()]
+parola, nume_fisier_input, nume_fisier_output = sys.argv[1:]
 fin = open(nume_fisier_input)
 fout = open(nume_fisier_output, "wb")
 
