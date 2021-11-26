@@ -7,9 +7,9 @@ Instructiuni de utilizare:
 
 2. Deschidem un terminal/command line in folderul respectiv
 
-3. Pentru a cripta fisierul text si a salva versiunea criptata intr-un alt fisier o sa rulam comanda: python encrypt.py parolasecreta input.txt output Acum a fost generat fisierul 'output' care contine textul criptat. Fisierul NU este de tip text, ci este de forma binara. "Binary file" pe google pentru mai multe detalii legate de fisierele binare.
+3. Pentru a cripta fisierul text si a salva versiunea criptata intr-un alt fisier o sa rulam comanda: `python encrypt.py parolasecreta input.txt output`. Acum a fost generat fisierul 'output' care contine textul criptat. Fisierul NU este de tip text, ci este de forma binara. "Binary file" pe google pentru mai multe detalii legate de fisierele binare.
 
-4. Pentru a decripta textul, in acelasi terminal, rulam comanda: python decrypt.py output parolasecreta input-recuperat.txt Acum a fost generat fisierul 'input-recuperat.txt' in care avem textul decriptat.
+4. Pentru a decripta textul, in acelasi terminal, rulam comanda: `python decrypt.py output parolasecreta input-recuperat.txt`. Acum a fost generat fisierul 'input-recuperat.txt' in care avem textul decriptat.
 
 
 
