@@ -13,7 +13,7 @@ Instructiuni de utilizare:
 
 
 
-Acest proiect a fost realizat de Robert Udrea, Andrei Lefter si Matei Biciusca, pe scurt echipa *Nume_Echipa*
+Acest proiect a fost realizat de Robert Udrea, Andrei Lefter si Matei Biciusca, pe scurt echipa *HeliXor*
 
 Pentru a rula scripturile este nevoie de Python 3.2 sau o versiune mai noua
 
