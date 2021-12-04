@@ -1,6 +1,8 @@
 # Proiect-ASC
 Welcome to the Proiect-ASC wiki!
 
+PARTEA I
+
 Instructiuni de utilizare:
 
 1. Descarcam cele doua scriptui in folderul in care avem si fisierul text pe care dorim sa il criptam. In acest exemplu ne vom referi la fisierul text ca fiind numit input.txt
@@ -18,3 +20,14 @@ Acest proiect a fost realizat de Robert Udrea, Andrei Lefter si Matei Biciusca, 
 Pentru a rula scripturile este nevoie de Python 3.2 sau o versiune mai noua
 
 parolasecreta folosita este STRICT SECRETA si este stiuta doar de membrii echipei.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PARTEA II
+
+HeliXor vs A.R.C.
+Cheia echipei adverse(A.R.C.): speramcaebine
+
+Cum am facut? - Am xorat fisierul de input cu cel output
+
+Putem afla parola si folosind doar fisierul output? Ramane de vazut ;)
