@@ -42,5 +42,5 @@ In urma a doua seri de codat in echipa pe Discord, am reusit sa aflam parola fol
 Cum am procedat? 
 
   Pentru inceput, am citit fisierul de output menit sa fie decryptat ca sa aflam parola. Pe urma am aflat lungimea parolei folosindu-ne de ideea ca pentru codificare parola a fost multiplicata, astfel am cautat caracterele care s-ar repeta din x in x caractere(unde 10 <= x <= 15).
-  Dupa ce am aflat lungimea parolei, treaba e simpla: Ne-am folosit de xor pentru a vedea ce caractere din fisierul output pot fi xorate cu caractere ascii astfel incat sa obtinem tot caractere ascii. Astfel am selectat doar caracterele bune si am obtinut (din nou) parola adversarilor: speramcaebine.
+  Dupa ce am aflat lungimea parolei, treaba e simpla: Ne-am folosit de xor pentru a vedea ce caractere din fisierul output pot fi xorate cu caractere alfanumerice astfel incat sa obtinem caracterele posibile dintr-un text in limba romana(litere mici/mari, semne de punctuatie, numere). Astfel am selectat doar caracterele bune si am obtinut (din nou) parola adversarilor: speramcaebine.
 
