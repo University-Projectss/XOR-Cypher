@@ -32,6 +32,8 @@ Cum am facut? - Am xorat fisierul de input cu cel output
 
 Putem afla parola si folosind doar fisierul output? Ramane de vazut ;)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 PARTEA II v2.0
 
 In urma a doua seri de codat in echipa pe Discord, am reusit sa aflam parola folosindu-ne exclusiv de fisierul output. Programul intreg si eficient este decryptarefaraoutput.py, iar in decryptareavansata_v1.py avem o varianta a programului care a fost decisiva in realizarea proiectului. 
