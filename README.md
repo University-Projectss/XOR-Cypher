@@ -31,3 +31,14 @@ Cheia echipei adverse(A.R.C.): speramcaebine
 Cum am facut? - Am xorat fisierul de input cu cel output
 
 Putem afla parola si folosind doar fisierul output? Ramane de vazut ;)
+
+PARTEA II v2.0
+
+In urma a doua seri de codat in echipa pe Discord, am reusit sa aflam parola folosindu-ne exclusiv de fisierul output. Programul intreg si eficient este decryptarefaraoutput.py, iar in decryptareavansata_v1.py avem o varianta a programului care a fost decisiva in realizarea proiectului. 
+
+
+Cum am procedat? 
+
+  Pentru inceput, am citit fisierul de output menit sa fie decryptat ca sa aflam parola. Pe urma am aflat lungimea parolei folosindu-ne de ideea ca pentru codificare parola a fost multiplicata, astfel am cautat caracterele care s-ar repeta din x in x caractere(unde 10 <= x <= 15).
+  Dupa ce am aflat lungimea parolei, treaba e simpla: Ne-am folosit de xor pentru a vedea ce caractere din fisierul output pot fi xorate cu caractere ascii astfel incat sa obtinem tot caractere ascii. Astfel am selectat doar caracterele bune si am obtinut (din nou) parola adversarilor: speramcaebine.
+
